@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+/*
+    font-family: "Oswald", sans-serif;
+    font-family: "Merienda", cursive;
+    font-family: "Archivo Black", sans-serif;
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: black;
+    height: 245px;
+}
+
+h1 {
+    font-family: "Archivo Black", sans-serif;
+
+    color: white;
+
+    padding-top: 28px;
+    text-align: center;
+    font-size: 6.8em;
+}
+
+p#hd {
+    color: white;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+
+    font-size: 1.2em;
+}
+
+main {
+    box-shadow: 0px 7px 7px black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+div {
+    font-family: "Merienda", cursive;
+    font-size: 2.6em
+}
+
+#tu {
+    background-color: white;
+
+    padding-top: 80px;
+    padding-bottom: 70px;
+    padding-left: 70px;
+}
+
+#td {
+
+    color: white;
+
+
+    background: url(imagens/joaninha.jpg)  center center no-repeat fixed;
+    background-size: cover;
+
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 60px;
+    
+}
+
+#p2 {
+    background-color: rgba(0, 0, 0, 0.775);
+    padding-left: 10px;
+
+    width: 600px;
+}
+
+#tt {
+    padding-top: 70px;
+    padding-left: 70px;
+}
+
+#tq { 
+    color: white;
+
+    background: url(imagens/escritos.jpg)  center center no-repeat fixed;
+    background-size: cover;
+
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 60px;
+}
+
+#tc {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 60px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+p#ft {
+    text-align: center;
+    font-size: 1.2em;
+    padding: 10px;
+}
