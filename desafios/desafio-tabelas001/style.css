@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+caption {
+    font-size: 2em;
+    border: 1px black solid;
+    padding: 10px;
+    background-color: rgb(83, 83, 83);
+    color: white;
+}
+
+thead {
+    background-color: rgb(143, 143, 143);
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px black solid;
+}
+
+#md {
+    background-color: rgb(143, 143, 143);
+    color: white;
+}
+
+th.md {
+    text-align: left;
+}
+
+.tt {
+    text-align: center;
+}

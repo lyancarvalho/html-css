@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(43, 43, 43);
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 450px;
+    text-align: center;
+    
+}
+
+td {
+    border: 1px black solid;
+    padding: 10px;
+}
